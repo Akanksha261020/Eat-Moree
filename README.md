@@ -1,39 +1,43 @@
-<div align="center" id="#readme-top">
-  <h1><b>Eat Moree - A Swiggy inspired food ordering platform</b></h3>
-</div>
+# Eat Moree
 
-<!-- TABLE OF CONTENTS -->
+## Project Description
 
-- [About](#about)
-- [Tech Stack](#tech-stack)
-- [Key Features](#key-features)
-- [Live Demo](#live-demo)
+Eat Moree is a food delivery website built using real-time APIs. It is a clone of the SWIGGY website, developed by creating all the components from scratch. The website operates dynamically, showcasing the mouth-watering signature dishes from various restaurants.
 
-<!-- PROJECT DESCRIPTION -->
 
-# 🥘 Eat Moree <a name="about"></a>
+## Features
 
-This is a project based on React.js. This react app is built using the live Swiggy API's and various other trending technologies like Tailwind CSS as a Styling Framework, Redux for state management, React Router DOM for page navigation, Parcel as a bundler, Babel for transpiling code and many more.
+- **React JS**: Utilized for building user interfaces and managing state.
+- **React Hooks**: Used for managing state and side effects in functional components.
+- **React Router**: Implemented for routing and navigation.
+- **Redux**: Managed global state efficiently.
+- **HTML5**: Structured content with semantic HTML5 elements.
+- **CSS3**: Styled the application using modern CSS3 techniques.
+- **Tailwind CSS**: Utilized for utility-first CSS styling.
+- **Parcel**: Used for bundling and building the application.
+- **Babel**: Transpiled modern JavaScript for compatibility.
+- **Shimmer UI**: Integrated for loading placeholders.
+- **Git**: Managed version control with Git.
 
-### 💻 Tech Stack <a name="tech-stack"></a>
+## Tags
 
-- Parcel
-- Babel
-- ReactJs
+- React JS
+- React Hooks
 - React Router
 - Redux
-
-<!-- Features -->
-
-### 🧿 Key Features <a name="key-features"></a>
-
-- Integration of Swiggy's Live API's
-- Config Driven UI
-- State Management using Redux
-- Code Splitting & Lazy Loading
-- Custom Hook
+- HTML5
+- CSS3
+- Tailwind
+- Parcel
+- Babel
 - Shimmer UI
+- Git
 
-### 🚀 Live Demo <a name="live-demo"></a>
+## Category
 
-- Live Website Preview : <a href="fillit" target="_blank">Eat Moree (Swiggy Clone)</a>
+React
+
+## Links
+
+- **GitHub Repository**: [Eat Moree on GitHub](https://github.com/Akanksha261020/Eat-Moree)
+- **Live Web App**: [Eat Moree Live Demo](https://eat-moree.vercel.app/)
